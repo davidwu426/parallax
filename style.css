@@ -1,0 +1,71 @@
+/* .spring{
+    
+} */
+
+.story{
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 10vh;
+}
+.spring{
+    background-image: url("./images/spring.jpg");
+    min-height: 100vh;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.summer{
+    background-image: url("./images/summer.jpg");
+    /* Set a specific height */
+    min-height: 100vh;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.fall{
+    background-image: url("./images/fall.jpg");
+    /* Set a specific height */
+    min-height: 100vh;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.winter{
+    background-image: url("./images/winter.jpg");
+    /* Set a specific height */
+    min-height: 100vh;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.scroll{
+    background-color: beige;
+    text-align: center;
+    min-height: 50vh;
+}
+
+.scroll h2{
+    margin: 0;
+    padding: 10px;
+}
+
+
